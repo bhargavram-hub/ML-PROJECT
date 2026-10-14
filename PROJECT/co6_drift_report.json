@@ -1,0 +1,38 @@
+{
+    "WEATHER": {
+        "train_mean": 2.737,
+        "new_mean": 2.6,
+        "z_shift": -0.04,
+        "drift_flag": false
+    },
+    "LGT_COND": {
+        "train_mean": 1.899,
+        "new_mean": 1.976,
+        "z_shift": 0.082,
+        "drift_flag": false
+    },
+    "RUR_URB": {
+        "train_mean": 3.171,
+        "new_mean": 3.186,
+        "z_shift": 0.005,
+        "drift_flag": false
+    },
+    "HOUR": {
+        "train_mean": 12.16,
+        "new_mean": 11.861,
+        "z_shift": -0.041,
+        "drift_flag": false
+    },
+    "DAY_WEEK": {
+        "train_mean": 4.088,
+        "new_mean": 4.218,
+        "z_shift": 0.061,
+        "drift_flag": false
+    },
+    "hotspot_member": {
+        "train_mean": 0.501,
+        "new_mean": 0.508,
+        "z_shift": 0.014,
+        "drift_flag": false
+    }
+}
